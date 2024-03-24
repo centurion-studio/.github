@@ -1,3 +1,3 @@
 Centurion Studio abstracts some technical aspects of writing software, and presents them as visual components easy to change end reflect the requirements. It accelerates the development process by capturing and automating many of the routine coding and testing tasks required in traditional development. At it's heart, there is a model-driven approach, whitch forces it's user to stay focused on the application domain model on one side and on business logic on the other side. 
 
-Whether you’re a software architect, a professional developer or a novice, Canturion Studio can help you work more efficiently and improve software quality and maintainability.
+Whether you’re a software architect, a professional developer or a novice, Centurion Studio can help you work more efficiently and improve software quality and maintainability.
